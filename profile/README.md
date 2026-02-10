@@ -2,112 +2,106 @@
 
 # Stella Maris Governance
 
-**Identity & Access Governance · Cloud Security · FinOps**
+### Calm Control in a Noisy, Expensive, Over-Complicated World
 
-*Built on 20 years of operational discipline.*
-
-[![SDVOSB](https://img.shields.io/badge/SDVOSB-Service--Disabled_Veteran--Owned-0047AB?style=for-the-badge)]()
-[![Packs](https://img.shields.io/badge/Proof_Packs-24-2ea44f?style=for-the-badge)]()
-[![E-v-O](https://img.shields.io/badge/Expected_vs_Observed-180_Controls-8957e5?style=for-the-badge)]()
+[![SDVOSB](https://img.shields.io/badge/SDVOSB-Service--Disabled_Veteran--Owned-003366?style=flat-square)]()
+[![KidneyCAN](https://img.shields.io/badge/Proudly_Supporting-KidneyCAN-orange?style=flat-square)](https://www.kidneycan.org)
 
 </div>
 
 ---
 
-## Who We Are
+## What We Do
 
-Stella Maris Governance delivers **audit-ready, controls-driven solutions** across Identity & Access Management (IAM/IGA), Cloud Security Posture, and Cloud Financial Operations (FinOps) — with a focus on federal, defense, and regulated environments.
+We design governance that actually works.
 
-Founded by a **20-year U.S. Navy veteran** (E-6, Retired, 100% P&T) with hands-on experience governing identity programs for 3,500+ personnel, managing $8.7M+ in operational spend, and building inspection-ready compliance programs under DOJ, DOD, and federal audit standards.
+Not dashboards. Not buzzwords. Not one more tool that needs a tool to manage it.
 
----
+We help organizations **spend less, risk less, and explain themselves better** — without slowing down the mission.
 
-## Start Here — Choose Your Path
-
-| You Are | Start With | What You'll Find |
-|---------|-----------|-----------------|
-| **Hiring Manager** | Any pack's `README.md` then `expected-vs-observed.md` | Architecture understanding + proof of implementation. Not theory — tested, evidenced configs. |
-| **Consulting Client** | `expected-vs-observed.md` then `/code/` | The gap between "Expected" and your "Observed" is our statement of work. The code is deployment-ready. |
-| **Auditor / GRC** | `expected-vs-observed.md` then `control-mapping.md` | Every control mapped to NIST 800-53, CIS, and CMMC with evidence links. Audit-package ready. |
-| **Engineer / Builder** | `/code/` then runbook in `/docs/` | Deployable Bicep, JSON, KQL, PowerShell. Every artifact documented with operational procedures. |
-| **Community / Peer** | `README.md` — explore freely | Architecture diagrams, cross-pack references, and real-world implementation patterns. |
+| Practice | What It Solves |
+|----------|---------------|
+| **Cloud Financial Governance (FinOps)** | Unpredictable cloud spend, no cost accountability, audit exposure |
+| **Identity & Access Governance (IGA/IAM)** | Access chaos, orphaned accounts, failed reviews, manual provisioning |
+| **Compliance Readiness & Control Design** | Audit stress, paper-only controls, checkbox compliance |
+| **Advisory** | Leaders who need answers, not excuses |
 
 ---
 
-## Repository Index
+## How We Think
 
-| Repository | Packs | Domain | Key Certs |
-|---|---|---|---|
-| [`identity-iga-packs`](https://github.com/stella-maris-governance/identity-iga-packs) | 9 | JML Lifecycle, Access Reviews, Conditional Access, PIM, SoD, Federation, SailPoint, Purview | SC-300, SailPoint ISL, Okta, SC-400 |
-| [`cloud-security-packs`](https://github.com/stella-maris-governance/cloud-security-packs) | 9 | Defender, Sentinel, KQL, Azure Policy, Key Vault, CSPM, SOAR, Regulatory Compliance | AZ-500, SC-200, Security+ |
-| [`finops-packs`](https://github.com/stella-maris-governance/finops-packs) | 5 | Tags, Budgets, Showback, FOCUS, RI/SP Optimization | FinOps FCP, FOCUS Analyst |
-| [`grc-compliance-packs`](https://github.com/stella-maris-governance/grc-compliance-packs) | 1 | Control-to-Evidence Mapping (NIST, CIS, CMMC) | CISA, CCSK, CC, CMMC-RP |
+Four non-negotiables:
 
-**Total: 24 proof packs · 180 Expected vs Observed controls · 120 deployable code files · 39 SOPs**
+**Evidence over opinions.** Every recommendation must be provable.
+
+**Controls before convenience.** Speed without discipline is just expensive chaos.
+
+**Cost is a security issue.** Uncontrolled spend is operational risk.
+
+**Calm systems outperform clever ones.** Boring, well-governed environments win long-term.
+
+*If it can't survive an audit, a budget review, or executive scrutiny, we don't ship it.*
 
 ---
 
-## Every Pack Includes
+## The Proof
 
-| Component | File | Purpose |
-|-----------|------|---------|
-| Executive Summary | `README.md` | Architecture diagram, badges, policy tables, deployment guide |
-| **Expected vs Observed** | `docs/expected-vs-observed.md` | **THE proof table.** Expected state, observed state, evidence, pass/fail |
-| Runbook / SOP | `docs/*-runbook.md` | Step-by-step operational procedures |
-| Control Mapping | `docs/control-mapping.md` | NIST 800-53, CIS Azure, CMMC L2, SOX |
-| Deployable Code | `code/*` | Bicep, JSON, KQL, PowerShell, Terraform |
-| Architecture Diagram | `diagrams/architecture.mmd` | Mermaid source (renders on GitHub) |
-| Portal Evidence | `screenshots/*.html` | Portal-style mockups marked [SAMPLE] |
-| Capture Guide | `screenshots/CAPTURE-GUIDE.md` | Exact portal paths for real screenshots |
+This GitHub is not a portfolio. It's a working library of governance packs — deployable, auditable, framework-aligned.
+
+| Repository | Packs | Domain |
+|-----------|-------|--------|
+| [`identity-iga-packs`](https://github.com/stella-maris-governance/identity-iga-packs) | JML Lifecycle, Access Reviews, Conditional Access, PIM, SoD, Guest vIAM | Identity & Access Governance |
+| [`cloud-security-packs`](https://github.com/stella-maris-governance/cloud-security-packs) | Sentinel, KQL, Defender, Azure Policy | Cloud Security Operations |
+| [`finops-packs`](https://github.com/stella-maris-governance/finops-packs) | Cost Governance, Tagging, Budgets, Chargeback | Cloud Financial Governance |
+| [`grc-compliance-packs`](https://github.com/stella-maris-governance/grc-compliance-packs) | SOC 2, CMMC, ISO, Risk Register | Compliance & Risk |
+
+**Every pack includes:**
+- Expected vs Observed assessment — the proof table, not a checklist
+- Deployable code (JSON, KQL, PowerShell)
+- Framework mapping (NIST 800-53, CIS, CMMC, SOX)
+- Operations runbook
+- Screenshot evidence guides
+
+---
+
+## Who We Serve
+
+Small to mid-sized organizations scaling fast. Regulated industries. Government contractors and subcontractors. Nonprofits and mission-driven organizations. Teams that need discipline, not noise.
+
+If your environment touches public money, sensitive data, or executive accountability — we are in our lane.
 
 ---
 
 ## Credentials
 
-<details>
-<summary><strong>20+ Certifications</strong></summary>
-
-**Identity & Access:** SailPoint ISL, SC-300 (in progress), Okta (planned)
-
-**Cloud & Security:** CompTIA Security+, CompTIA Network+, CCSK v5, ISC2 CC, Fortinet FCF/FCA, SC-900, AZ-900, AWS CCP
-
-**FinOps:** FinOps Foundation Intro, FOCUS Intro, FinOps FCP (planned)
-
-**Governance:** ITIL 4 Foundation, CISA (planned)
-
-</details>
-
-<details>
-<summary><strong>Education</strong></summary>
-
-- **MBA** — University of the Incarnate Word (3.85 GPA, High Distinction)
-- **BS Accounting** — Colorado Technical University (Summa Cum Laude)
-
-</details>
-
-<details>
-<summary><strong>Military & Professional Background</strong></summary>
-
-- **U.S. Navy** — 20 years, E-6, Retired (100% P&T)
-  - Identity & Personnel Security: 3,500+ personnel, 2,200+ CAC/PKI credentials, zero-incident
-  - Supply & Logistics: $14M+ inventory accountability, 36% to 98.9% accuracy rebuild
-- **Aerospace** — Supply Chain Manager, $8.7M spend, $724K annual savings
-- **Federal** — Bureau of Prisons, 99.2% inventory accuracy, $800K annualized savings
-
-</details>
+| Category | Detail |
+|----------|--------|
+| **Education** | MBA · BS Accounting |
+| **Identity & Access** | SC-300 · SailPoint ISL · Security+ · CCSK · CC |
+| **Cloud & Security** | AZ-500 · SC-900 · AZ-900 · FinOps Certified Practitioner |
+| **Background** | 20-year Navy veteran · Supply chain and chemical operations leadership · 3,500+ personnel credential accountability with zero-incident record |
+| **Veteran Status** | SDVOSB — Service-Disabled Veteran-Owned Small Business |
 
 ---
 
-## License
+## Start Here
 
-Published for **evaluation and demonstration**. Commercial use requires a written engagement.
-
-**© 2026 Stella Maris Governance LLC**
+| You Are | Go Here |
+|---------|---------|
+| **Hiring Manager** | Browse any pack → read the Expected vs Observed → that's the interview |
+| **Potential Client** | Read the E-v-O in your domain → if your org can't produce the same evidence, the gap is your engagement |
+| **Auditor / GRC** | Control mappings in every pack → NIST, CIS, CMMC, SOX aligned |
+| **Engineer** | Clone any repo → code is deployable → runbooks are operational |
+| **Community** | Star the repos, open issues, contribute |
 
 ---
 
 <div align="center">
 
+**© 2026 Stella Maris Governance LLC** — Evaluation and demonstration use permitted. Commercial use requires engagement.
+
 *"Expected vs Observed" — because proof beats promises.*
+
+[![KidneyCAN](https://img.shields.io/badge/🎗️_Supporting-KidneyCAN.org-orange?style=flat-square)](https://www.kidneycan.org)
 
 </div>
