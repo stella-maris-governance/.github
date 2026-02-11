@@ -1,107 +1,52 @@
-<div align="center">
-
 # Stella Maris Governance
 
-### Calm Control in a Noisy, Expensive, Over-Complicated World
+### The fixed point.
 
-[![SDVOSB](https://img.shields.io/badge/SDVOSB-Service--Disabled_Veteran--Owned-003366?style=flat-square)]()
-[![KidneyCAN](https://img.shields.io/badge/Proudly_Supporting-KidneyCAN-orange?style=flat-square)](https://www.kidneycan.org)
+Stella Maris is the star that doesn't move. In a landscape of shifting cloud costs and fragile security, we provide the bearing. We don't provide opinions; we provide governance. We don't offer promises; we offer evidence.
 
-</div>
-
----
-
-## What We Do
-
-We design governance that actually works.
-
-Not dashboards. Not buzzwords. Not one more tool that needs a tool to manage it.
-
-We help organizations **spend less, risk less, and explain themselves better** — without slowing down the mission.
-
-| Practice | What It Solves |
-|----------|---------------|
-| **Cloud Financial Governance (FinOps)** | Unpredictable cloud spend, no cost accountability, audit exposure |
-| **Identity & Access Governance (IGA/IAM)** | Access chaos, orphaned accounts, failed reviews, manual provisioning |
-| **Compliance Readiness & Control Design** | Audit stress, paper-only controls, checkbox compliance |
-| **Advisory** | Leaders who need answers, not excuses |
+If you do not know who is in your house, you do not have a house — you have a hallway.
 
 ---
 
-## How We Think
+## The Non-Negotiables
 
-Four non-negotiables:
-
-**Evidence over opinions.** Every recommendation must be provable.
-
-**Controls before convenience.** Speed without discipline is just expensive chaos.
-
-**Cost is a security issue.** Uncontrolled spend is operational risk.
-
-**Calm systems outperform clever ones.** Boring, well-governed environments win long-term.
-
-*If it can't survive an audit, a budget review, or executive scrutiny, we don't ship it.*
+- **Evidence over opinion.** If it isn't documented and provable, it doesn't exist.
+- **Calm over clever.** Clever is fragile. Calm systems survive audits.
+- **Fiscal stewardship.** A dollar wasted is a control weakened. Spend is a root-level security issue.
+- **Operator governance.** Built by practitioners for the person defending the system at 0300.
 
 ---
 
-## The Proof
+## The Work Library
 
-This GitHub is not a portfolio. It's a working library of governance packs — deployable, auditable, framework-aligned.
+This organization serves as a public repository of **Governance Packs**. These are not demonstrations; they are deployable, framework-aligned controls.
 
-| Repository | Packs | Domain |
-|-----------|-------|--------|
-| [`identity-iga-packs`](https://github.com/stella-maris-governance/identity-iga-packs) | JML Lifecycle, Access Reviews, Conditional Access, PIM, SoD, Guest vIAM | Identity & Access Governance |
-| [`cloud-security-packs`](https://github.com/stella-maris-governance/cloud-security-packs) | Sentinel, KQL, Defender, Azure Policy | Cloud Security Operations |
-| [`finops-packs`](https://github.com/stella-maris-governance/finops-packs) | Cost Governance, Tagging, Budgets, Chargeback | Cloud Financial Governance |
-| [`grc-compliance-packs`](https://github.com/stella-maris-governance/grc-compliance-packs) | SOC 2, CMMC, ISO, Risk Register | Compliance & Risk |
+| Repository | Focus |
+| :--- | :--- |
+| [**identity-iga-packs**](https://github.com/stella-maris-governance/identity-iga-packs) | Identity Lifecycle, Access Reviews, and Zero Trust Enforcement. |
+| [**cloud-security-packs**](https://github.com/stella-maris-governance/cloud-security-packs) | KQL Detections, Sentinel Rules, and Azure Policy Guardrails. |
+| [**finops-packs**](https://github.com/stella-maris-governance/finops-packs) | Cloud Financial Governance, Spend Transparency, and Tagging. |
+| [**readiness-packs**](https://github.com/stella-maris-governance/readiness-packs) | Evidence collection and control mapping for SOC 2, CMMC, and ISO. |
 
-**Every pack includes:**
-- Expected vs Observed assessment — the proof table, not a checklist
-- Deployable code (JSON, KQL, PowerShell)
-- Framework mapping (NIST 800-53, CIS, CMMC, SOX)
-- Operations runbook
-- Screenshot evidence guides
+**Every pack follows the "Expected vs. Observed" Law:**
+
+We document what *should* be true, we prove what *is* true, and we expose the gap. We do not hide from the gap. We close it.
 
 ---
 
-## Who We Serve
+## The Principal
 
-Small to mid-sized organizations scaling fast. Regulated industries. Government contractors and subcontractors. Nonprofits and mission-driven organizations. Teams that need discipline, not noise.
+**Robert Myers, MBA**
+*20-Year Navy Veteran · Mission-Critical Systems & Operations*
 
-If your environment touches public money, sensitive data, or executive accountability — we are in our lane.
+BS Accounting · SC-300 · AZ-500 · SailPoint ISL · Security+ · CCSK · CC · FinOps Certified Practitioner
 
----
-
-## Credentials
-
-| Category | Detail |
-|----------|--------|
-| **Education** | MBA · BS Accounting |
-| **Identity & Access** | SC-300 · SailPoint ISL · Security+ · CCSK · CC |
-| **Cloud & Security** | AZ-500 · SC-900 · AZ-900 · FinOps Certified Practitioner |
-| **Background** | 20-year Navy veteran · Supply chain and chemical operations leadership · 3,500+ personnel credential accountability with zero-incident record |
-| **Veteran Status** | SDVOSB — Service-Disabled Veteran-Owned Small Business |
+This firm is built to outlast its founder. It is structured to be as durable as the star it is named after.
 
 ---
 
-## Start Here
-
-| You Are | Go Here |
-|---------|---------|
-| **Hiring Manager** | Browse any pack → read the Expected vs Observed → that's the interview |
-| **Potential Client** | Read the E-v-O in your domain → if your org can't produce the same evidence, the gap is your engagement |
-| **Auditor / GRC** | Control mappings in every pack → NIST, CIS, CMMC, SOX aligned |
-| **Engineer** | Clone any repo → code is deployable → runbooks are operational |
-| **Community** | Star the repos, open issues, contribute |
+[**Service-Disabled Veteran-Owned Small Business (SDVOSB)**](https://veterans.certify.sba.gov/)  ·  [**Supporting KidneyCAN**](https://www.kidneycan.org)
 
 ---
 
-<div align="center">
-
-**© 2026 Stella Maris Governance LLC** — Evaluation and demonstration use permitted. Commercial use requires engagement.
-
-*"Expected vs Observed" — because proof beats promises.*
-
-[![KidneyCAN](https://img.shields.io/badge/🎗️_Supporting-KidneyCAN.org-orange?style=flat-square)](https://www.kidneycan.org)
-
-</div>
+© 2026 Stella Maris Governance LLC — The work speaks for itself.
