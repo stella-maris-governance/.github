@@ -4,7 +4,7 @@
 
 **Do NOT open a public GitHub issue for security vulnerabilities.**
 
-**Email:** security@stellamarisgovernance.com
+**Email:** robert@rmyers.cloud
 **Response SLA:** Acknowledgment within 48 hours
 
 These repositories contain **sample configurations and demonstration code** for evaluation purposes. No production credentials, secrets, or tenant identifiers are included. Code artifacts should be reviewed and tested in a non-production environment before deployment.
