@@ -1,52 +1,85 @@
 # Stella Maris Governance LLC
 
-**Pre-Assessment Readiness Validation for the Defense Industrial Base**
+**Service-Disabled Veteran-Owned Small Business (SDVOSB)** delivering cybersecurity governance, defense compliance advisory, and supply chain risk governance for organizations operating in regulated and high-trust defense environments.
 
-Independent, assessment-focused advisory for defense contractors preparing for CMMC Level 2 certification and DFARS compliance scrutiny.
-
----
-
-**Purpose:** Demonstrate governance artifacts structured for third-party assessor traceability — not implementation code.
-
-- We publish redacted governance exemplars and structural methodology
-- We do not publish client deliverables, internal tooling, or implementation configurations
+Stella Maris Governance supports defense contractors, subcontractors, and supply chain participants preparing for CMMC Level 2 certification, DFARS compliance scrutiny, and supply chain enforcement requirements. All engagements are assessment-focused, fixed-fee, milestone-based, and structured for third-party assessor review.
 
 ---
 
-### Governance Methodology
+## Core Service Areas
 
-The firm maintains a structured governance control portfolio developed for pre-assessment validation and regulatory defensibility — spanning CMMC readiness, supply chain enforcement, and financial governance — totaling 22 packs and 220 controls across three domains.
-
-| Domain | Packs | Controls | Alignment |
-|--------|-------|----------|-----------|
-| CMMC & Access Control | 9 | 90 | NIST SP 800-171 / CMMC Level 2 |
-| Supply Chain Risk Management | 8 | 80 | DFARS / NIST 800-161 / C-SCRM |
-| Compliance & Financial Governance | 5 | 50 | OMB A-123 / FAR Part 31 / FinOps |
-| **Total** | **22** | **220** | |
-
-Each control pack includes: defined control objectives, implementation guidance, required evidence artifacts, compliance mappings, and review cadence assignments.
-
-Full governance portfolio is maintained within private client engagement systems. Selected redacted exemplars are available in this organization for structural review.
+- **CMMC Level 2 Readiness & Advisory** — Structured, phase-based readiness validation aligned to NIST SP 800-171 and CMMC Level 2 practice requirements
+- **NIST SP 800-171 Program Development** — Gap analysis, SSP development, POA&M structuring, and evidence framework design
+- **DFARS 252.204-7012 / 7019 / 7020 Alignment** — Flow-down obligation identification, subcontractor compliance support, and assessment preparation
+- **Supply Chain Risk Governance** — Vendor tiering, supplier oversight frameworks, and C-SCRM program design aligned to NIST SP 800-161
+- **Ongoing Governance Retainers** — Quarterly compliance validation, control drift monitoring, and evidence refresh
 
 ---
 
-### Advisory Services
+## Operating Approach
 
-- **CMMC Level 2 Readiness Campaigns** — Structured, phase-based readiness validation aligned to NIST SP 800-171
-- **Defense Supply Chain Enforcement Readiness** — DFARS-aligned subcontractor validation and compliance enforcement
-- **Ongoing Governance Retainers** — Quarterly validation to maintain continuous compliance posture
+Stella Maris Governance is built on four principles:
 
-All engagements are fixed-fee, milestone-based, and structured for third-party assessor review. Advisory services are intentionally separated from implementation to preserve objectivity and assessment defensibility.
+**Governance before theater.**
+Security and compliance programs must be documented, repeatable, and defensible — not assembled at assessment time.
+
+**Evidence over assertion.**
+Every claim maps to an artifact, a control, a procedure, and an operational record.
+
+**Practical implementation.**
+Advisory work translates into executable operating models, not slideware.
+
+**Supply chain credibility.**
+Small firms supporting the Defense Industrial Base must present the discipline, documentation, and delivery structure expected of prime contractors and large integrators.
 
 ---
 
-### Methodology
+## What This Organization Contains
 
-All documentation and validation workflows are structured in alignment with anticipated third-party assessor review processes. Governance artifacts are tracked within a dedicated controlled governance repository to preserve version control, evidence traceability, and structured remediation lifecycle management.
+This GitHub organization provides a transparent view of Stella Maris Governance public methodologies, frameworks, and selected client-safe artifacts. Reviewers will find:
+
+- Firm capabilities and teaming materials
+- Formal consulting methodology and engagement governance framework
+- CMMC, NIST SP 800-171, and DFARS-aligned readiness artifacts
+- Supply chain risk governance frameworks and supplier oversight templates
+- Sanitized governance, risk, and compliance templates
+
+This organization is intentionally curated. Client workpapers, internal delivery systems, sensitive operational methods, and proprietary tooling are maintained within the firm's internal source control environment and are not published here.
 
 ---
 
-**Veteran-Owned Small Business**
-Fort Worth, Texas — Remote Nationwide
+## Representative Repositories
 
-[stellamarisgovernance.com](https://stellamarisgovernance.com) · [robert@stellamarisgovernance.com](mailto:robert@stellamarisgovernance.com) · [LinkedIn](https://www.linkedin.com/in/robertjmyers5)
+| Repository | Purpose |
+|---|---|
+| [smg-capabilities-statement](https://github.com/stella-maris-governance/smg-capabilities-statement) | SDVOSB firm profile, service overview, and teaming information |
+| [smg-consulting-methodology](https://github.com/stella-maris-governance/smg-consulting-methodology) | Public consulting methodology and engagement governance framework |
+| [smg-cmmc-readiness-framework](https://github.com/stella-maris-governance/smg-cmmc-readiness-framework) | Public CMMC, NIST SP 800-171, and DFARS-aligned readiness artifacts |
+| [smg-supply-chain-risk-governance](https://github.com/stella-maris-governance/smg-supply-chain-risk-governance) | Public supply chain risk governance frameworks and supplier oversight artifacts |
+| [smg-public-governance-templates](https://github.com/stella-maris-governance/smg-public-governance-templates) | Sanitized governance, risk, and compliance templates |
+| [stellamarisgovernance-com](https://github.com/stella-maris-governance/stellamarisgovernance-com) | Source repository for the Stella Maris Governance public website |
+
+---
+
+## About the Founder
+
+Stella Maris Governance was founded by **Robert J. Myers**, a U.S. Navy veteran (E-6, Petty Officer First Class) with over 20 years of federal governance experience spanning Navy operations, Department of Justice, and defense aerospace environments.
+
+Robert holds 23+ industry certifications across cybersecurity, cloud security, identity governance, and financial operations — including CompTIA Security+, CCZT, FOCP, and ISC2 credentials — and is pursuing CMMC Registered Practitioner (RP) certification through CyberAB.
+
+The firm combines governance discipline, operational practicality, and implementation focus to deliver credible compliance capability without enterprise consulting overhead.
+
+---
+
+## Teaming & Contact
+
+Stella Maris Governance actively pursues teaming arrangements with prime contractors supporting the Defense Industrial Base. The firm holds SDVOSB certification and maintains SAM.gov registration.
+
+For teaming inquiries, subcontracting discussions, or capability reviews:
+
+- **Website:** [stellamarisgovernance.com](https://stellamarisgovernance.com)
+- **Email:** robert@stellamarisgovernance.com
+
+---
+
+*Stella Maris Governance LLC — Governance, compliance, and operational discipline for high-trust defense environments.*
